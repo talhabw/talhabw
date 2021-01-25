@@ -25,8 +25,8 @@ These are my accounts all over the internet :
 | Discord | raistlin#8436 | - |
 | Gmail | talhafb1223@gmail\<dot\>com | [Click](mailto:talhafb1223@gmail.com) |
 | LinkedIn | Talha Karasu | [Click](https://www.linkedin.com/in/talha-karasu-62b22114a/) |
-| Website | karasu\<dot\>xyz | [Click](https://karasu.xyz) |
-| Domain Mail | talha@karasu.xyz | [Click](mailto:talha@karasu.xyz) |
+| Website | karasu.xyz | [Click](https://karasu.xyz) |
+| Domain Mail | talha@karasu\<dot\>xyz | [Click](mailto:talha@karasu.xyz) |
 | Reddit | VladRyuzuka | [Click](https://www.reddit.com/user/VladRyuzuka) |
 | Steam | Raistlin | [Click](https://steamcommunity.com/id/Sylvester1223/) |
 | Spotify | Raistlin | [Click](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7) |

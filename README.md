@@ -4,7 +4,7 @@
 
 | Skill | Status |
 | :-:   | :-: | 
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> | [==========] %100 |
+| <img height="32" width="32" style="color:red:" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> | [==========] %100 |
 | <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" /> | [==========] %100 |
 | <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> | [=========] %90 |
 | <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" /> | [=======] %70 |

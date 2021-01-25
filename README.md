@@ -23,7 +23,7 @@ These are my accounts all over the internet :
 | :-:   | :-: | :-: |
 | GitHub | TalhaK15 | [Click](https://github.com/TalhaK15) |
 | Discord | raistlin#8436 | - |
-| Gmail | talhafb1223@gmail.com | [Click](mailto:talhafb1223@gmail.com) |
+| Gmail | talhafb1223&#064;gmail.com | [Click](mailto:talhafb1223@gmail.com) |
 | LinkedIn | Talha Karasu | [Click](https://www.linkedin.com/in/talha-karasu-62b22114a/) |
 | Website | karasu.xyz | [Click](https://karasu.xyz) |
 | Domain Mail | talha@karasu.xyz | [Click](mailto:talha@karasu.xyz) |

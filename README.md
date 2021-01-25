@@ -19,31 +19,19 @@ I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I
 
 These are my accounts all over the internet : 
 
-[![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talha-karasu-62b22114a/)
-[![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15)
-![Discord Badge](https://img.shields.io/badge/raistlin#8436-grey?logo=Discord)
-[![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-red?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-red?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
-[![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-grey?logo=Reddit)](https://github.com/TalhaK15)
-[![Steam Badge](https://img.shields.io/badge/Raistlin-grey?logo=Steam)](https://github.com/TalhaK15)
-[![Spotify Badge](https://img.shields.io/badge/Raistlin-grey?logo=Spotify)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7)
-[![Youtube Badge](https://img.shields.io/badge/Talha-critical?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ)
-[![Facebook Badge](https://img.shields.io/badge/Talha-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011297020699)
-
-
 | Platform | Username | Contact |
 | :-:   | :-: | :-: |
-| GitHub | TalhaK15 | [Click](https://github.com/TalhaK15) |
-| Discord | raistlin#8436 | - |
-| Gmail | talhafb1223@gmail\<dot\>com | [Click](mailto:talhafb1223@gmail.com) |
-| LinkedIn | Talha Karasu | [Click](https://www.linkedin.com/in/talha-karasu-62b22114a/) |
+| GitHub | TalhaK15 | [![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15) |
+| Discord | raistlin#8436 | ![Discord Badge](https://img.shields.io/badge/raistlin%238436-grey?logo=Discord) |
+| Gmail | talhafb1223@gmail\<dot\>com | [![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-red?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com) |
+| LinkedIn | Talha Karasu | [![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talha-karasu-62b22114a/) |
 | Website | karasu.xyz | [Click](https://karasu.xyz) |
-| Domain Mail | talha@karasu\<dot\>xyz | [Click](mailto:talha@karasu.xyz) |
-| Reddit | VladRyuzuka | [Click](https://www.reddit.com/user/VladRyuzuka) |
-| Steam | Raistlin | [Click](https://steamcommunity.com/id/Sylvester1223/) |
-| Spotify | Raistlin | [Click](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7) |
-| Youtube | Talha | [Click](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ) |
-| Facebook | Talha | [Click](https://www.facebook.com/profile.php?id=100011297020699) |
+| Domain Mail | talha@karasu\<dot\>xyz | [![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-red?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz) |
+| Reddit | VladRyuzuka | [![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-grey?logo=Reddit)](https://github.com/TalhaK15) |
+| Steam | Raistlin | [![Steam Badge](https://img.shields.io/badge/Raistlin-grey?logo=Steam)](https://github.com/TalhaK15) |
+| Spotify | Raistlin | [![Spotify Badge](https://img.shields.io/badge/Raistlin-grey?logo=Spotify)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7) |
+| Youtube | Talha | [![Youtube Badge](https://img.shields.io/badge/Talha-critical?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ) |
+| Facebook | Talha | [![Facebook Badge](https://img.shields.io/badge/Talha-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011297020699) |
 
 These are my GitHub statisctics : 
 

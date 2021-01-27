@@ -1,23 +1,23 @@
 # Hi there! 👋
 
-### My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills for future. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
+My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills for future. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
 
 | Skill | Status |
 | :-:   | :-: | 
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | [==========] %100 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | [==========] %100 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | [=========] %90 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> | [=======] %70 |
-| <img height="32" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /> | [====] %40 |
-| <img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" /> | [===] %30 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> | [] %0 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> | [] %0 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> | [] %0 |
-| <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"> | [] %0 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> | [==========] %100 |
+| <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> | [==========] %100 |
+| <img height="25" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> | [=========] %90 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> | [=======] %70 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /> | [====] %40 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" /> | [===] %30 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"> | [] %0 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> | [] %0 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> | [] %0 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> | [] %0 |
 
-### I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
+I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
 
-### These are my accounts all over the internet : 
+These are my accounts all over the internet : 
 
 
 [![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15)
@@ -31,7 +31,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Talha-ff0000?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ)
 [![Facebook Badge](https://img.shields.io/badge/Talha-4267b2?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011297020699)
 
-### These are my GitHub statisctics : 
+These are my GitHub statisctics : 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=talhak15&line_height=40&count_commits=true&count_private=true&show_icons=true&theme=cobalt)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhak15&show_icons=true&theme=cobalt)

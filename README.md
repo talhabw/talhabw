@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills for future. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
+My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
 
 | Skill | Status |
 | :-:   | :-: | 

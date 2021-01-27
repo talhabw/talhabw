@@ -3,7 +3,7 @@
 My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
 
 | Skill | Status |
-| :-:   | :-: | 
+| :-:   | - | 
 | <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> | [==========] %100 |
 | <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> | [==========] %100 |
 | <img height="25" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> | [=========] %90 |

@@ -37,3 +37,5 @@ These are my GitHub statisctics :
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhak15&show_icons=true&theme=cobalt)
 
 ![](https://komarev.com/ghpvc/?username=TalhaK15&style=flat)
+
+![](https://hit.yhype.me/github/profile?user_id=56639619)

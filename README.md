@@ -23,7 +23,7 @@ These are my accounts all over the internet :
 [![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15)
 [![Discord Badge](https://img.shields.io/badge/raistlin%238436-7289DA?logo=Discord&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talha-karasu-62b22114a/)
+[![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talhakarasu/)
 [![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-c14438?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
 [![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-ff4500?logo=Reddit&logoColor=white)](https://github.com/TalhaK15)
 [![Steam Badge](https://img.shields.io/badge/Raistlin-113A70?logo=Steam&logoColor=white)](https://github.com/TalhaK15)

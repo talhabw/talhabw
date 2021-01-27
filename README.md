@@ -4,16 +4,16 @@
 
 | Skill | Status |
 | :-:   | :-: | 
-| <img height="32" width="32" style="color:red:" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" /> | [==========] %100 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" /> | [==========] %100 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> | [=========] %90 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/vue-dot-js.svg" /> | [=======] %70 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/nuxt-dot-js.svg" /> | [====] %40 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/go.svg" /> | [===] %30 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/dart.svg" /> | [] %0 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/flutter.svg" /> | [] %0 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" /> | [] %0 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/opencv.svg" /> | [] %0 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | [==========] %100 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | [==========] %100 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | [=========] %90 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> | [=======] %70 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuxt/nuxt.png"> | [====] %40 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"> | [===] %30 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> | [] %0 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> | [] %0 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> | [] %0 |
+| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"> | [] %0 |
 
 ### I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
 

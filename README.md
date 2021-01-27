@@ -8,12 +8,12 @@
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | [==========] %100 |
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | [=========] %90 |
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> | [=======] %70 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/nuxt-dot-js.svg" /> | [====] %40 |
-| <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/go.svg" /> | [===] %30 |
+| <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/32px-Nuxt_logo.svg.png" /> | [====] %40 |
+| <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png" /> | [===] %30 |
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> | [] %0 |
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> | [] %0 |
 | <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> | [] %0 |
-| <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"> | [] %0 |
+| <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"> | [] %0 |
 
 ### I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
 
@@ -22,9 +22,9 @@
 
 [![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15)
 [![Discord Badge](https://img.shields.io/badge/raistlin%238436-7289DA?logo=Discord&logoColor=white)]()
-[![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-red?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talha-karasu-62b22114a/)
-[![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-red?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
+[![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-c14438?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
 [![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-ff4500?logo=Reddit&logoColor=white)](https://github.com/TalhaK15)
 [![Steam Badge](https://img.shields.io/badge/Raistlin-113A70?logo=Steam&logoColor=white)](https://github.com/TalhaK15)
 [![Spotify Badge](https://img.shields.io/badge/Raistlin-1ED760?logo=Spotify&logoColor=white)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7)

@@ -21,12 +21,12 @@ These are my accounts all over the internet :
 
 
 [![Github Badge](https://img.shields.io/badge/TalhaK15-grey?logo=GitHub)](https://github.com/TalhaK15)
-[![Discord Badge](https://img.shields.io/badge/raistlin%238436-7289DA?logo=Discord&logoColor=white)]()
+[![Discord Badge](https://img.shields.io/badge/raistlin%238436-7289DA?logo=Discord&logoColor=white)](https://discord.com/users/734720204260769793/)
 [![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talhakarasu/)
 [![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-c14438?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
-[![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-ff4500?logo=Reddit&logoColor=white)](https://github.com/TalhaK15)
-[![Steam Badge](https://img.shields.io/badge/Raistlin-113A70?logo=Steam&logoColor=white)](https://github.com/TalhaK15)
+[![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-ff4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/VladRyuzuka)
+[![Steam Badge](https://img.shields.io/badge/Raistlin-113A70?logo=Steam&logoColor=white)](https://steamcommunity.com/id/Sylvester1223/)
 [![Spotify Badge](https://img.shields.io/badge/Raistlin-1ED760?logo=Spotify&logoColor=white)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7)
 [![Youtube Badge](https://img.shields.io/badge/Talha-ff0000?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ)
 [![Facebook Badge](https://img.shields.io/badge/Talha-4267b2?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011297020699)

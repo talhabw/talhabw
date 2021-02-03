@@ -33,7 +33,7 @@ These are my accounts all over the internet :
 
 These are my GitHub statisctics : 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=talhabw5&line_height=40&count_commits=true&count_private=true&show_icons=true&theme=cobalt)
+![github stats](https://github-readme-stats.vercel.app/api?username=talhabw&line_height=40&count_commits=true&count_private=true&show_icons=true&theme=cobalt)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhabw&show_icons=true&theme=cobalt)
 
 ![](https://hit.yhype.me/github/profile?user_id=56639619)

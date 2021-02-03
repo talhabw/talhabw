@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Talha and this is my GitHub profile. I"m a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
+My name is Talha and this is my GitHub profile. I'm a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
 
 | Skill | Status |
 | :-:   | - | 
@@ -31,7 +31,7 @@ These are my accounts all over the internet :
 [![Youtube Badge](https://img.shields.io/badge/Talha-ff0000?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ)
 [![Facebook Badge](https://img.shields.io/badge/Talha-4267b2?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011297020699)
 
-These are my GitHub statisctics : 
+These are my GitHub statistics : 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=talhabw&line_height=40&count_commits=true&count_private=true&show_icons=true&theme=cobalt)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhabw&show_icons=true&theme=cobalt)

@@ -4,16 +4,16 @@ My name is Talha and this is my GitHub profile. I"m a high school student in Tur
 
 | Skill | Status |
 | :-:   | - | 
-| <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> | [==========] %100 |
-| <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> | [==========] %100 |
-| <img height="25" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> | [=========] %90 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> | [=======] %70 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /> | [====] %40 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" /> | [===] %30 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"> | [] %0 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> | [] %0 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> | [] %0 |
-| <img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> | [] %0 |
+| <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> | [==========] 100% |
+| <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> | [==========] 100% |
+| <img height="25" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"> | [=========] 90% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> | [=======] 70% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /> | [====] 40% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" /> | [===] 30% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"> | [] 0% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> | [] 0% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> | [] 0% |
+| <img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> | [] 0% |
 
 I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
 

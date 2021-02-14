@@ -21,7 +21,7 @@ These are my accounts all over the internet :
 
 
 [![Github Badge](https://img.shields.io/badge/talhabw-grey?logo=GitHub)](https://github.com/talhabw)
-[![Discord Badge](https://img.shields.io/badge/raistlin%238436-7289DA?logo=Discord&logoColor=white)](https://discord.com/users/734720204260769793/)
+[![Discord Badge](https://img.shields.io/badge/t.bw%238436-7289DA?logo=Discord&logoColor=white)](https://discord.com/users/734720204260769793/)
 [![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talhakarasu/)
 [![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-c14438?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)

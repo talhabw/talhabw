@@ -19,17 +19,13 @@ I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I
 
 These are my accounts all over the internet : 
 
-
-[![Github Badge](https://img.shields.io/badge/talhabw-grey?logo=GitHub)](https://github.com/talhabw)
-[![Discord Badge](https://img.shields.io/badge/t.bw%238436-7289DA?logo=Discord&logoColor=white)](https://discord.com/users/734720204260769793/)
-[![Gmail Badge](https://img.shields.io/badge/talhafb1223@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:talhafb1223@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Talha%20Karasu-blue?logo=Linkedin)](https://www.linkedin.com/in/talhabw)
-[![Gmail Badge](https://img.shields.io/badge/talha@kararsu.xyz-c14438?logo=Gmail&logoColor=white)](mailto:talha@karasu.xyz)
-[![Reddit Badge](https://img.shields.io/badge/VladRyuzuka-ff4500?logo=Reddit&logoColor=white)](https://www.reddit.com/user/VladRyuzuka)
-[![Steam Badge](https://img.shields.io/badge/Raistlin-113A70?logo=Steam&logoColor=white)](https://steamcommunity.com/id/talhabw)
-[![Spotify Badge](https://img.shields.io/badge/talhabw-1ED760?logo=Spotify&logoColor=white)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7)
-[![Youtube Badge](https://img.shields.io/badge/Talha-ff0000?logo=Youtube)](https://www.youtube.com/channel/UC6rsOQgbEGqpBu539xGKUXQ)
-[![Facebook Badge](https://img.shields.io/badge/Talha-4267b2?logo=Facebook&logoColor=white)](https://www.facebook.com/talhabw)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhabw)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/talhabw)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/734720204260769793/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhabw)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha@karasu.xyz)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/talhabw)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/up1ar3qi6wyf0kft0odfr9in7)
 
 These are my GitHub statistics : 
 

@@ -1,21 +1,34 @@
 # Hi there! 👋
 
-My name is Talha and this is my GitHub profile. I'm a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. These are my current skills, and the ones I want to gain in the near future :
+My name is Talha and this is my GitHub profile. I'm a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. 
 
-| Skill | Status |
-| :-:   | - | 
-| <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> | [=========] 90% |
-| <img height="25" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> | [=========] 90% |
-| <img height="25" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> | [=======] 70% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"> | [======] 60% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" /> | [===] 30% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" /> | [===] 30% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"> | [] 0% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> | [] 0% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> | [] 0% |
-| <img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"> | [] 0% |
+## Languages and Frameworks/Technologies:
 
-I am also interested in robotics. I worked with Raspberry Pi, Arduino and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![ExpressJs Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![VueJs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
+![NuxtJs Badge](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white)
+![ElectronJs Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+## Tools:
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+I am also interested in robotics. I worked with ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white),
+![RaspberryPi Badge](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white) and ESP. I don't consider this area as a career but I'm enjoying it as a hobby.
 
 These are my accounts all over the internet : 
 

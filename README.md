@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734720204260769793?theme=dark&bg=765cdc&animated=true)](https://discord.com/users/734720204260769793)
-
 My name is Talha and this is my GitHub profile. I'm a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. 
 
 ## Current Languages and Frameworks/Technologies:
@@ -48,5 +46,9 @@ I am also interested in robotics. I worked with ![Arduino Badge](https://img.shi
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=talhabw&line_height=40&count_commits=true&count_private=true&show_icons=true&theme=cobalt)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhabw&show_icons=true&theme=cobalt)
+
+## What am i doing right now? (via [lanyard api](https://github.com/cnrad/lanyard-profile-readme))
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734720204260769793?theme=dark&bg=765cdc&animated=true)](https://discord.com/users/734720204260769793)
 
 ![](https://hit.yhype.me/github/profile?user_id=56639619)

@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734720204260769793?theme=dark&bg=765cdc&animated=true)](https://discord.com/users/734720204260769793)
+
 My name is Talha and this is my GitHub profile. I'm a high school student in Turkey. I am trying to improve my code and math skills. I want to study Computer Science at college. 
 
 ## Current Languages and Frameworks/Technologies:

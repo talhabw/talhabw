@@ -49,6 +49,6 @@ I am also interested in robotics. I worked with ![Arduino Badge](https://img.shi
 
 ## What am i doing right now? (via [lanyard api](https://github.com/cnrad/lanyard-profile-readme))
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734720204260769793?theme=dark&bg=765cdc&animated=true)](https://discord.com/users/734720204260769793)
+[![Discord Presence](https://lanyard.cnrad.dev/api/734720204260769793?theme=dark&bg=765cdc&animated=true)](https://discord.com/users/734720204260769793)
 
 ![](https://hit.yhype.me/github/profile?user_id=56639619)

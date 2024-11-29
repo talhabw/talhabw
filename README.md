@@ -20,5 +20,10 @@ and ***mostly*** these frameworks: ![Vue.js](https://img.shields.io/badge/-Vue.j
 
 I want to learn more about ![Go](https://img.shields.io/badge/-Go-000?logo=go&style=for-the-badge) and dive more into ![robotics](https://img.shields.io/badge/-robotics-000?style=for-the-badge) and ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?style=for-the-badge)
 
+---
+
+#### Here is a random garfield comic!
+![](https://random-garfield.karasu.me)
+
 ![](https://hit.yhype.me/github/profile?user_id=56639619)
 

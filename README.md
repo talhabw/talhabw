@@ -23,7 +23,7 @@ I want to learn more about ![Go](https://img.shields.io/badge/-Go-000?logo=go&st
 ---
 
 #### Here is a random garfield comic!
-![](https://random-garfield.karasu.me?)
+![](https://random-garfield.karasu.me?2)
 
 ![](https://hit.yhype.me/github/profile?user_id=56639619)
 

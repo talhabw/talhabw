@@ -18,7 +18,7 @@ I ***mostly*** use these languages: ![JavaScript](https://img.shields.io/badge/-
 
 and ***mostly*** these frameworks: ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js&style=for-the-badge) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?logo=nuxt.js&style=for-the-badge) ![Flutter](https://img.shields.io/badge/-Flutter-000?logo=flutter&logoColor=027DFD&style=for-the-badge)
 
-I want to learn more about ![Go](https://img.shields.io/badge/-Go-000?logo=go&style=for-the-badge) and dive more into ![robotics](https://img.shields.io/badge/-robotics-000?style=for-the-badge) and ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?style=for-the-badge)
+I want to learn more about ![Go](https://img.shields.io/badge/-Go-000?logo=go&style=for-the-badge) and ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&style=for-the-badge) and dive more into robotics and machine learning.
 
 ---
 

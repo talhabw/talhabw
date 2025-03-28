@@ -13,15 +13,6 @@ Feel free to leave me a message about anything!
 
 ---
 
-#### My Tech Stack
-I ***mostly*** use these languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&style=for-the-badge) ![Dart](https://img.shields.io/badge/-Dart-000?logo=dart&logoColor=027DFD&style=for-the-badge) ![Go](https://img.shields.io/badge/-Go-000?logo=go&style=for-the-badge)
-
-and ***mostly*** these frameworks: ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=vue.js&style=for-the-badge) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?logo=nuxt.js&style=for-the-badge) ![Flutter](https://img.shields.io/badge/-Flutter-000?logo=flutter&logoColor=027DFD&style=for-the-badge)
-
-I want to learn more about ![Go](https://img.shields.io/badge/-Go-000?logo=go&style=for-the-badge) and ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&style=for-the-badge) and dive more into robotics and machine learning.
-
----
-
 #### [Click here](https://random-garfield.karasu.me) for a random garfield comic!
 
 ![](https://hit.yhype.me/github/profile?user_id=56639619)

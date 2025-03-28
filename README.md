@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Robotics Engineering Student @ [Istanbul Technical University (ITU)](https://itu.edu.tr/en/homepage)<br>
-Software & Scouting Mentor @ [FRC9483](https://www.instagram.com/frc9483)
+Software Mentor @ [FRC9483](https://www.instagram.com/frc9483)
 
 #### Contact me @
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/talhakarasu)
